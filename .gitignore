@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Otros
+checkpoints/
+checkpoints_rnn/
+
 # Distribution / packaging
 .Python
 build/
